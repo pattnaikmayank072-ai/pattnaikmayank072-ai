@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! I'm Mayank 👋
 
-<!--
-**pattnaikmayank072-ai/pattnaikmayank072-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a BTech CSE (AI/ML) student passionate about learning software development and building projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently learning Web Development
+- 🌱 Learning Node.js, databases and React
+- 🧠 Practicing Data Structures & Algorithms
+- 🔧 Interested in Full Stack Development
+- 🎯 Always learning and improving my coding skills
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** C, Java, Python, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Backend:** Node.js
+- **Database:** Learning
+- **Tools:** Git, GitHub, VS Code
+
+## 📚 Currently Learning
+
+- Node.js
+- Backend Development
+- Databases
+- React
+- Data Structures & Algorithms
+
+## 📌 Projects
+
+- 🌐 Web Development Projects
+- 💻 JavaScript Projects
+- 🚀 More projects coming soon...
+
+## 🤝 Connect With Me
+
+📧 **Email:** pattnaikmayank072@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+
